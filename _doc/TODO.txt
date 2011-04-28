@@ -1,0 +1,7 @@
+//todo:{WT}, run executor in a queue.
+//todo:{WT}, add event in execute process
+
+
+Anytao / @anytao
+anytao@live.com
+http://anytao.net

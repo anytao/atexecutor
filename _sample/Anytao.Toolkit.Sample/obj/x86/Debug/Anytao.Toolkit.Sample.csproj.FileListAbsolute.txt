@@ -1,0 +1,8 @@
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\bin\Debug\_data\achievement.xml
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\bin\Debug\Anytao.Toolkit.Sample.exe
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\bin\Debug\Anytao.Toolkit.Sample.pdb
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\bin\Debug\Anytao.Toolkit.AtExecutor.dll
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\bin\Debug\Anytao.Toolkit.AtExecutor.pdb
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\obj\x86\Debug\Anytao.Toolkit.Sample.exe
+D:\iProject\AtExecutor\dev\_sample\Anytao.Toolkit.Sample\obj\x86\Debug\Anytao.Toolkit.Sample.pdb

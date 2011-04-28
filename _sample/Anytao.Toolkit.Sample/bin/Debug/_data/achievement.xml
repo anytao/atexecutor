@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<atdata>
+  <achievements>
+    <achievement>
+      <id>1</id>
+      <name>牛B</name>
+      <title>牛B</title>
+      <executor>Anytao.Executor.WinnerAchieveExecutor</executor>
+      <desc>战胜他人次数达到100</desc>
+    </achievement>
+    <achievement>
+      <id>2</id>
+      <name>大财主</name>
+      <title>大财主</title>
+      <executor>Anytao.Executor.MillionRichAchieveExecutor</executor>
+      <desc>银号存款达到一百万</desc>
+    </achievement>
+  </achievements>
+</atdata>
